@@ -1,0 +1,4 @@
+#SRA,BioProject,SeqType,Description,Author
+SRX529558,PRJNA245452,PacBio,Di-glucosylated Coprinopsis cinerea to map 5hmC 5fC and 5caC,Pukkila
+SRX529561,PRJNA245452,PacBio,Native Coprinopsis to map 5mC 5fC and 5caC,Pukkila
+SRX020146,PRJNA122153,Illumina-GAII,Bisulfide Sequencing (H2A.Z),Zilberman
